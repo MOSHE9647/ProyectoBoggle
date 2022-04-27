@@ -8,6 +8,8 @@
 #include <cstdio>
 #include "Jugador.h"
 
+/*ESTA CLASE NO ESTÁ TERMINADA Y POR LO TANTO NO ESTÁ FUNCIONANDO*/
+
 class Juego {
 private:
 	fstream archivo;
